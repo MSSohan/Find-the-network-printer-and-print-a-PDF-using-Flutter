@@ -1,11 +1,10 @@
 # Find-the-network-printer-and-print-a-PDF-using-Flutter
-a flutter project.
+A flutter project.
 
 
-Let's build a Scan & Generate Barcode or QR Code App with Flutter. 
+Let's build a Printing App with Flutter. 
 
-- [Resources Create Barcode Plugin](https://pub.dev/packages/barcode_widget)
-- [Scan Barcode Plugin](https://pub.dev/packages/flutter_barcode_scanner)
+- [Printing Plugin](https://pub.dev/packages/printing)
 
 ## Getting Started
 
