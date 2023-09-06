@@ -1,6 +1,11 @@
 # Find-the-network-printer-and-print-a-PDF-using-Flutter
 A flutter project.
 
+Features:
+- Automatically find network printers on the local network.
+- Will create PDF file.
+- Will display PDF file.
+- Will print the PDF file.
 
 Let's build a Printing App with Flutter. 
 
