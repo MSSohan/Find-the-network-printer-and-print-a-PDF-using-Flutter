@@ -17,6 +17,10 @@ A flutter project.
 
 - [Printing Plugin](https://pub.dev/packages/printing)
 
+# APK:
+
+- [Here](https://github.com/MSSohan/Find-the-network-printer-and-print-a-PDF-using-Flutter/blob/main/debug%20app/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
